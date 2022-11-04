@@ -1,0 +1,7 @@
+.pages__wrapper {
+  margin-top: 25px;
+}
+
+.page__current {
+  background-color: wheat!important;
+}
