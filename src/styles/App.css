@@ -17,7 +17,7 @@
 .post {
   display: flex;
   padding: 15px;
-  border: 2px solid teal;
+  border: 2px solid deepskyblue;
   margin-top: 15px;
   align-items: center;
   justify-content: space-between;
@@ -38,13 +38,17 @@
   transition: transform 500ms ease-in;
 }
 
+.post__btns{
+  display: flex;
+}
+
 .navbar {
   height: 50px;
   width: 100vw;
   display: flex;
   align-items: center;
   padding: 0 15px;
-  background-color: teal;
+  background-color: wheat;
 }
 
 .navbar__links {

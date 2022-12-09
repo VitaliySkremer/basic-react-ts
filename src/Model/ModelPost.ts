@@ -3,3 +3,8 @@ export interface IPost {
     title: string;
     body: string;
 }
+
+export interface Comment {
+    email: string;
+    body: string
+}
